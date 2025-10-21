@@ -12,3 +12,10 @@ Platforms to support:
 - [ ] ROCm
 - [ ] OneAPI
 - [ ] SIMD
+
+Language bindings:
+
+- [ ] Rust
+- [ ] C
+- [ ] Python
+- [ ] JavaScript (FFI and WASM)
